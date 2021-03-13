@@ -20,8 +20,12 @@ The following **bonus** features are implemented:
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past posts infinitely. (2pts)
 
-## Video Walkthrough
+## Video Walkthrough #1
 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/P7iUok4E7WoWr67drE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Video Walkthrough #2
+
+<img src='https://media.giphy.com/media/6BFJphiPtxSnRqUFDo/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
